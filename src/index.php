@@ -7,9 +7,11 @@
     <title>Document</title>
 </head>
 <body>
-    <?php 
+    <?php                                   
 
-    echo "Hello World"
+    // echo "This is PHP"
+   /* echo "tHIS IS PHP" */
+   echo "STATEMENTS END WITH ;";
     
     ?>
     
