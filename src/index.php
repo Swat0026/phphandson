@@ -45,11 +45,15 @@
     //        break;
     //    }
 
-    $colors = array("red", "green", "blue", "yellow"); 
+//     $colors = array("red", "green", "blue", "yellow"); 
 
- foreach($colors as $x) {
-  echo $x ."<br>";
+//  foreach($colors as $x) {
+//   echo $x ."<br>";
+// }
+function myfunction(){
+    echo "Hi";
 }
+myfunction();
 
 
 
