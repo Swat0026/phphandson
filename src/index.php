@@ -28,11 +28,21 @@
 
     //    $oldtxt="Hello world";
     //    $newtxt=str_replace("world","dolly",$old_txt);
-    echo 10*5 ."<br>";
-    echo 10/5 ."<br>"; 
-    echo 10+5 ."<br>";
-    echo 10-5 ."<br>" ;
-    
+    // echo 10*5 ."<br>";
+    // echo 10/5 ."<br>"; 
+    // echo 10+5 ."<br>";
+    // echo 10-5 ."<br>" ;
+
+    $a = 50;
+    $b = 10;
+    if($a==$b){
+        echo "yes";
+    }elseif($a!=$b){
+        echo "No";
+    }else{
+        echo "Bye";
+    }
+
 
 
     
