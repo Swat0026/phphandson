@@ -33,15 +33,17 @@
     // echo 10+5 ."<br>";
     // echo 10-5 ."<br>" ;
 
-    $a = 50;
-    $b = 10;
-    if($a==$b){
-        echo "yes";
-    }elseif($a!=$b){
-        echo "No";
-    }else{
-        echo "Bye";
-    }
+   
+    switch($color) {
+  
+       case "red":
+           echo "Hello";
+           break;
+         
+        case "green":
+           echo "Welcome";
+           break;
+       }
 
 
 
