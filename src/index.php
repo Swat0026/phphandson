@@ -16,10 +16,20 @@
 
 //    $txt="Hello"
 
-   $x=5;
-   $y=7;
+//    $x=5;
+//    $y=7;
 
-   echo $x + $y;
+//    echo $x + $y;
+
+// echo strlen("Hello World" );
+// echo "<br>";
+
+// echo strrev("Hello World");
+
+       $oldtxt="Hello world";
+       $newtxt=str_replace("world","dolly",$old_txt);
+
+
     
     ?>
     
