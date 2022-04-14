@@ -34,16 +34,22 @@
     // echo 10-5 ."<br>" ;
 
    
-    switch($color) {
+    // switch($color) {
   
-       case "red":
-           echo "Hello";
-           break;
+    //    case "red":
+    //        echo "Hello";
+    //        break;
          
-        case "green":
-           echo "Welcome";
-           break;
-       }
+    //     case "green":
+    //        echo "Welcome";
+    //        break;
+    //    }
+
+    $colors = array("red", "green", "blue", "yellow"); 
+
+ foreach($colors as $x) {
+  echo $x ."<br>";
+}
 
 
 
