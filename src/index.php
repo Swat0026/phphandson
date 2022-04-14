@@ -11,7 +11,15 @@
 
     // echo "This is PHP"
    /* echo "tHIS IS PHP" */
-   echo "STATEMENTS END WITH ;";
+//    echo "STATEMENTS END WITH ;";
+
+
+//    $txt="Hello"
+
+   $x=5;
+   $y=7;
+
+   echo $x + $y;
     
     ?>
     
