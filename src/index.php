@@ -26,8 +26,13 @@
 
 // echo strrev("Hello World");
 
-       $oldtxt="Hello world";
-       $newtxt=str_replace("world","dolly",$old_txt);
+    //    $oldtxt="Hello world";
+    //    $newtxt=str_replace("world","dolly",$old_txt);
+    echo 10*5 ."<br>";
+    echo 10/5 ."<br>"; 
+    echo 10+5 ."<br>";
+    echo 10-5 ."<br>" ;
+    
 
 
     
